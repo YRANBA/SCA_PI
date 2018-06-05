@@ -1,0 +1,23 @@
+#!/bin/bash
+
+echo "what is your favorite fruit"
+
+read fruit1 fruit2 fruit 3
+
+echo your first fruit was $fruit1 $fruit 2 $fruit3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
