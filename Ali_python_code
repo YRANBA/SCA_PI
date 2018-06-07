@@ -1,0 +1,17 @@
+#!/usr/bin/env python
+
+
+x = raw_input('enter an integer') 
+y= raw_input('enter an integer') 
+
+if x>y: 
+	print "the maximum is", x 
+	print "the minimum is", y
+	print "maximum - minimum =", maximum - minimum
+	maximum = int(x)
+        minimum = int(y)
+else: 
+	print "the maximum is", y
+	print "the minimum is", x
+	print "maximum - minimum =", int(y) - int(x)
+

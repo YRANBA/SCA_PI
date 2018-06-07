@@ -1,6 +1,14 @@
 #!/bin/bash
 
-let a=5%2
+#initial value of script is 2
+car=2
 
-echo=5a
+while [ $car -le 20 ]
+	do
+		echo $car
+	((car = $car +3))
+	
+	done
+echo "All done"
+
 
